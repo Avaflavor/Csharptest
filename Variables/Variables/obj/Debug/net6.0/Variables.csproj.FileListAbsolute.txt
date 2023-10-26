@@ -1,0 +1,14 @@
+E:\DevPractice\Csharptest\Variables\Variables\bin\Debug\net6.0\Variables.exe
+E:\DevPractice\Csharptest\Variables\Variables\bin\Debug\net6.0\Variables.deps.json
+E:\DevPractice\Csharptest\Variables\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+E:\DevPractice\Csharptest\Variables\Variables\bin\Debug\net6.0\Variables.dll
+E:\DevPractice\Csharptest\Variables\Variables\bin\Debug\net6.0\Variables.pdb
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.dll
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\refint\Variables.dll
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.pdb
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+E:\DevPractice\Csharptest\Variables\Variables\obj\Debug\net6.0\ref\Variables.dll
