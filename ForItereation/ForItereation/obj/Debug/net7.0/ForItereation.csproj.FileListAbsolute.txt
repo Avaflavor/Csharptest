@@ -1,0 +1,14 @@
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.AssemblyInfoInputs.cache
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.AssemblyInfo.cs
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.csproj.CoreCompileInputs.cache
+E:\DevPractice\Csharptest\ForItereation\ForItereation\bin\Debug\net7.0\ForItereation.exe
+E:\DevPractice\Csharptest\ForItereation\ForItereation\bin\Debug\net7.0\ForItereation.deps.json
+E:\DevPractice\Csharptest\ForItereation\ForItereation\bin\Debug\net7.0\ForItereation.runtimeconfig.json
+E:\DevPractice\Csharptest\ForItereation\ForItereation\bin\Debug\net7.0\ForItereation.dll
+E:\DevPractice\Csharptest\ForItereation\ForItereation\bin\Debug\net7.0\ForItereation.pdb
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.dll
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\refint\ForItereation.dll
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.pdb
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ForItereation.genruntimeconfig.cache
+E:\DevPractice\Csharptest\ForItereation\ForItereation\obj\Debug\net7.0\ref\ForItereation.dll
