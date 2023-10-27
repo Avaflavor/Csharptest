@@ -1,0 +1,14 @@
+E:\DevPractice\Csharptest\Decisions\Decisions\bin\Debug\net7.0\Decisions.exe
+E:\DevPractice\Csharptest\Decisions\Decisions\bin\Debug\net7.0\Decisions.deps.json
+E:\DevPractice\Csharptest\Decisions\Decisions\bin\Debug\net7.0\Decisions.runtimeconfig.json
+E:\DevPractice\Csharptest\Decisions\Decisions\bin\Debug\net7.0\Decisions.dll
+E:\DevPractice\Csharptest\Decisions\Decisions\bin\Debug\net7.0\Decisions.pdb
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.AssemblyInfoInputs.cache
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.AssemblyInfo.cs
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.csproj.CoreCompileInputs.cache
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.dll
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\refint\Decisions.dll
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.pdb
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\Decisions.genruntimeconfig.cache
+E:\DevPractice\Csharptest\Decisions\Decisions\obj\Debug\net7.0\ref\Decisions.dll
